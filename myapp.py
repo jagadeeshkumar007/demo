@@ -4,7 +4,7 @@ st.header('Types of Hemanths')
 
 col1, col2, col3 = st.columns(3)
 with col1:
-  st.subheader("Meanwhile Audiance")
+  st.subheader("Meanwhile")
   st.image("Screenshot_20221215_230406.png",caption="Audiance",width=300,use_column_width=True)
   st.write("hemanth is CR")
 with col2:
